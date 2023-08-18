@@ -1,7 +1,7 @@
 mixed-port: 7890
 allow-lan: false
 mode: Rule
-log-level: silent
+log-level: silent 
 external-controller: 127.0.0.1:60000
 
 proxy-providers:
